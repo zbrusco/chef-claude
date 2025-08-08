@@ -1,9 +1,9 @@
-import chefClaude from "../static/chef-claude-icon.png";
+import chefClaude from "../static/chef-claude-icon.svg";
 
 export default function Header() {
   return (
     <header>
-      <img src={chefClaude} alt="Chef Claude logo" />
+      <img className="logo" src={chefClaude} alt="Chef Claude logo" />
       <span>Chef Gemini</span>
     </header>
   );

@@ -11,7 +11,6 @@ export default function Main() {
 
   // Scroll to the recipe once it's available
   useEffect(() => {
-    console.log(recipeSection.current);
     if (recipe && recipeSection.current) {
       recipeSection.current.scrollIntoView({
         behavior: "smooth",
