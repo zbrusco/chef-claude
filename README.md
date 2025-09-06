@@ -4,7 +4,7 @@
 Enter your ingredients, click “Get Recipe,” and Chef Gemini will provide a recipe for you.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/945157cd-1402-45d1-82fa-cf4a8e874774" />
+  <img src="https://github.com/user-attachments/assets/945157cd-1402-45d1-82fa-cf4a8e874774" alt="Chef Gemini Demo"/>
 </p>
 
 ---
